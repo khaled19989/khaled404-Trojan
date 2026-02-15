@@ -6,7 +6,7 @@
 "settings": {
 "clients": [
 {
-"password": "Khaled-Surfing-404",
+"password": "d2cb8181-233c-4d18-9972-8a1b04db0044",
 "level": 0
 }
 ],
@@ -15,7 +15,7 @@
 "streamSettings": {
 "network": "ws",
 "wsSettings": {
-"path": "/GCP_OOREDOO_DZ"
+"path": "/gcp_ooredoo_dz"
 }
 }
 }
